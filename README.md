@@ -1,0 +1,1 @@
+# jenkins-vagrant-openshift1
