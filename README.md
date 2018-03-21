@@ -16,6 +16,6 @@ Prerequiste:
 
 ## More Details:
 1. [openShift-Jenkins](https://github.com/openshift/origin/blob/master/examples/jenkins/README.md)
-
+2. https://blog.openshift.com/pipelines-with-jenkins-2-on-openshift/
 
 
