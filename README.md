@@ -1,4 +1,4 @@
-# jenkins-vagrant-openshift1
+# jenkins-vagrant-openshift
 
 Prerequiste:
 * [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
