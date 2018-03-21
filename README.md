@@ -18,6 +18,8 @@ Prerequiste:
 
 > oc deploy jenkins --latest -n openshift-infra
 
+## More Details:
+1. [openShift-Jenkins](https://github.com/openshift/origin/blob/master/examples/jenkins/README.md)
 
 
 
