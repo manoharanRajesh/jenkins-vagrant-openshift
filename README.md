@@ -6,17 +6,13 @@ Prerequiste:
 
 
 ## Running open shift:
-> git clone 
-
-> vagrant up
-
-> vagrant ssh 
-
-> oc login https://10.2.2.2:8443 --> based on the url on the console.
-
-> oc project openshift-infra
-
-> oc deploy jenkins --latest -n openshift-infra
+* git clone 
+* vagrant up
+* vagrant ssh 
+* oc login https://10.2.2.2:8443 ' --> based on the url on the console.' 
+* oc project openshift-infra
+* oc deploy jenkins --latest -n openshift-infra
+* oc get route ' --> see routes in jenkins' 
 
 ## More Details:
 1. [openShift-Jenkins](https://github.com/openshift/origin/blob/master/examples/jenkins/README.md)
